@@ -1,11 +1,14 @@
 Hello, I'm Thainara 😊
 
-<p align="justify"> I have a bachelor's degree in Cartography and Surveying Engineering (University of São Paulo State - Brazil). During my graduation period, I was a FAPESP (São Paulo Research Foundation) fellow in the area of Satellite Positioning (GNSS), where I worked on the mathematical modeling of atmospheric effects that decreases GNSS (Global Navigation Satellite System) accuracy. During this period, I also worked as a research student at the University of New Brunswick (UNB) – Canada. Currently, I am a Master's student in Remote Sensing at the National Institute of Space Research – INPE. Funded by FAPESP, I have been working on the development/calibration of algorithms to assess water quality parameters using remote sensing data. Recently, I was also an exchange student at the National Research Council of Italy - Electromagnetic Sensing of the Environment (CNR-IREA) in Milan, where I worked on the application of hyperspectral sensors and machine learning models in the study of inland waters. Since then, I’ve been collaborating with CNR-IREA on different projects. I do bring along a background in Remote Sensing, Geodesy, Photogrammetry, Geomatics Engineering, Surveying Engineering, Geo-informatics, and Geo-information science. Knowledge of aerial image processing and photogrammetry; coordinate systems and reference frames; GNSS/INS principles; RADAR images processing; Processing of Airborne LiDAR data; proﬁciency in the use of GIS and surveying software, and knowledge in digital image processing; and advanced knowledge in programming languages (Python, Matlab, R), machine learning and deep learning models, and database (SQL).
-I am empathic, curious, collaborative, and an innovation enthusiast, which truly believes that our generation is the one responsible to create a more sustainable, diverse, and inclusive environment for future generations.
-</p>
-- 🔭 I’m currently working on my master's dissertation, titled "CYANOBACTERIA MAPPING IN PROMISSÃO RESERVOIR BY HYBRID ALGORITHMS AND OLCI IMAGE"
+<p align="justify"> I hold a bachelor’s degree in Cartography and Surveying Engineering from the University of São Paulo State, Brazil, where I began exploring satellite positioning (GNSS), atmospheric modeling, and remote sensing studies. My academic journey has taken me across borders: I’ve worked with research groups at the University of New Brunswick, and the National Research Council of Italy (CNR-IREA), where I applied hyperspectral sensors and machine learning algorithms to dive into inland waters remote sensing. I also earned a master’s degree in Remote Sensing from Brazil’s National Institute for Space Research (INPE), working on the calibration of bio-optical models to monitor water quality parameters using satellite observations
+Currently, I’m pursuing a PhD in Biosystems Engineering at Mississippi State University, and I'm a member of the Geospatial Computing for Environmental Research Lab (GCER). My work focuses on aquatic remote sensing, computer vision and deep learning to advance water resource management.
 
-<h3 align="left">Connect with me: https://www.linkedin.com/in/thainara-munhoz-alexandre-de-lima-a9a128186/ </h3>
+My research interests include remote sensing in aquatic environments, multi-sensor applications, computer vision, and deep learning modeling.
+
+Let’s dive in and explore the work I’m passionate about!
+</p>
+
+<h3 align="left">Connect with me: https://www.linkedin.com/in/thainara-munhoz/ </h3>
 <p align="left">
 </p>
 
