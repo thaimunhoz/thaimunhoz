@@ -4,11 +4,6 @@ Hello, I'm Thainara 😊
 I hold a master’s degree in Remote Sensing from the National Institute for Space Research (INPE), Brazil, where I focused on calibrating bio-optical models using satellite data. I earned my bachelor’s degree in Geomatics and Surveying Engineering from São Paulo State University (UNESP), with a focus on GNSS, atmospheric modeling, and remote sensing. I have collaborated with research groups at the University of New Brunswick and the National Research Council of Italy (CNR-IREA), where I worked with hyperspectral data and deep learning for inland water applications.
 
 Let’s dive in and explore the work I’m passionate about!
-</p>
-
-<h3 align="left">Connect with me: https://www.linkedin.com/in/thainara-munhoz/ </h3>
-<p align="left">
-</p>
-<h3 align="left">More about my research: https://tml411.wixsite.com/limaportfolio/ </h3>
-<p align="left">
+<p align="left">Connect with me: https://www.linkedin.com/in/thainara-munhoz/
+<p align="left">More about my research: https://tml411.wixsite.com/limaportfolio/
 </p>
