@@ -5,5 +5,5 @@ I hold a master’s degree in Remote Sensing from the National Institute for Spa
 
 Let’s dive in and explore the work I’m passionate about!
 <p align="left">Connect with me: https://www.linkedin.com/in/thainara-munhoz/
-<p align="left">More about my research: https://tml411.wixsite.com/limaportfolio/
+<p align="left">More about my research: https://tml411.wixsite.com/website
 </p>
